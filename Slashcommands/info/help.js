@@ -5,7 +5,7 @@ module.exports = {
   options:[
     {
       name:"command",
-      description:"Devil Staff  | POLAT BOT ♕︎",
+      description:"Moon Staff  | AnOo ♕︎",
       type:"STRING",
       choices:[
         {
